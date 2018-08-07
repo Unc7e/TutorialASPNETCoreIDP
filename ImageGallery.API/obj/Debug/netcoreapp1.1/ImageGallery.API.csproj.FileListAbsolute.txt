@@ -1,0 +1,11 @@
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\obj\Debug\netcoreapp1.1\ImageGallery.API.csprojAssemblyReference.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\obj\Debug\netcoreapp1.1\ImageGallery.API.csproj.CoreCompileInputs.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\obj\Debug\netcoreapp1.1\ImageGallery.API.AssemblyInfoInputs.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\obj\Debug\netcoreapp1.1\ImageGallery.API.AssemblyInfo.cs
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\bin\Debug\netcoreapp1.1\ImageGallery.API.deps.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\bin\Debug\netcoreapp1.1\ImageGallery.API.runtimeconfig.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\bin\Debug\netcoreapp1.1\ImageGallery.API.runtimeconfig.dev.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\bin\Debug\netcoreapp1.1\ImageGallery.API.dll
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\bin\Debug\netcoreapp1.1\ImageGallery.API.pdb
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\obj\Debug\netcoreapp1.1\ImageGallery.API.dll
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.API\obj\Debug\netcoreapp1.1\ImageGallery.API.pdb

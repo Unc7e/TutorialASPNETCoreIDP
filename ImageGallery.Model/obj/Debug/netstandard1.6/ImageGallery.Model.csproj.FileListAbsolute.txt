@@ -1,0 +1,9 @@
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.deps.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.dll
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csprojAssemblyReference.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.AssemblyInfo.cs
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\bin\Debug\netstandard1.6\ImageGallery.Model.pdb
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.dll
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Model\obj\Debug\netstandard1.6\ImageGallery.Model.pdb
