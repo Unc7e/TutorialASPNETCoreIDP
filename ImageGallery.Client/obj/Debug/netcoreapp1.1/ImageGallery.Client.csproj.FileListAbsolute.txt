@@ -1,0 +1,8 @@
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.deps.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.runtimeconfig.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.runtimeconfig.dev.json
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.dll
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.csprojAssemblyReference.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.AssemblyInfoInputs.cache
+C:\Projects\ASPNETCore\TutorialSecuringASPNETCore2\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.AssemblyInfo.cs

@@ -2,7 +2,7 @@
 
 namespace ImageGallery.Model
 {
-    public class ImageForCreationg
+    public class ImageForCreation
     {
         [Required]
         [MaxLength(150)]

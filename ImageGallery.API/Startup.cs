@@ -72,14 +72,14 @@ namespace ImageGallery.API
 
                 // Map from ImageForCreation to Image
                 // Ignore properties that shouldn't be mapped
-                cfg.CreateMap<Model.ImageForCreationg, Image>()
+                cfg.CreateMap<Model.ImageForCreation, Image>()
                 .ForMember(m => m.FileName, options => options.Ignore())
                 .ForMember(m => m.Id, options => options.Ignore())
                 .ForMember(m => m.OwnerId, options => options.Ignore());
 
                 // Map from ImageForUpdate to Image
                 // Ignore properties that shouldn't be mapped
-                cfg.CreateMap<Model.ImageForCreationg, Image>()
+                cfg.CreateMap<Model.ImageForCreation, Image>()
                 .ForMember(m => m.FileName, options => options.Ignore())
                 .ForMember(m => m.Id, options => options.Ignore())
                 .ForMember(m => m.OwnerId, options => options.Ignore());
