@@ -18,6 +18,26 @@ namespace TutorialSecuringASPNETCore2
                 .AddTestUsers(Config.GetUsers())
                 .AddInMemoryIdentityResources(Config.GetIdentityResources())
                 .AddInMemoryClients(Config.GetClients());
+
+            services.AddAuthentication(options =>
+            {
+                options.DefaultScheme = "Cookies";
+                options.DefaultChallengeScheme = "oidc";
+            })
+            .AddCookie("Cookies")
+            .AddOpenIdConnect("oidc", options =>
+            {
+                options.SignInScheme = "Cookies";
+                options.Authority = "https://localhost:44379";
+                options.ClientId = "imagegalleryclient";
+                options.ResponseType = "code id_token";
+                // options.CallbackPath = new PathString(...)
+                options.Scope.Add("openid");
+                options.Scope.Add("profile");
+                options.SaveTokens = true;
+                options.ClientSecret = "sercret";
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

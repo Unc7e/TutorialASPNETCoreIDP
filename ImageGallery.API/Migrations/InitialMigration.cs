@@ -9,7 +9,7 @@ namespace ImageGallery.API.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "IMages",
+                name: "Images",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(nullable: false),
